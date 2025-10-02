@@ -41,9 +41,6 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
-.env.test
-.env.production
 
 # Parcel-bundler cache
 .cache
@@ -83,3 +80,7 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
